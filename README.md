@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Simone. a Master’s student in Computer Game Development at Università degli Studi di Verona, with a strong passion for videogames and the goal of pursuing a career in game development.</p>
+<p align="left">I'm Simone, a Master’s student in Computer Game Development at Università degli Studi di Verona, with a strong passion for videogames and the goal of pursuing a career in game development.</p>
 
 ###
 
