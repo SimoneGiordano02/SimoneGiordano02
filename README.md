@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Simone, a Master’s student in Computer Game Development at Università degli Studi di Verona, with a strong passion for videogames and the goal of pursuing a career in game development. This is a link to my [portfolio](https://github.com/SimoneGiordano02/game-dev-portfolio/edit/main/README.md)   [Repo MarbleMaze](https://github.com/SimoneGiordano02/Marble_Maze) </p>
+<p align="left">I'm Simone, a Master’s student in Computer Game Development at Università degli Studi di Verona, with a strong passion for videogames and the goal of pursuing a career in game development. This is a link to my <a href="https://github.com/SimoneGiordano02/game-dev-portfolio">portfolio</a></p>
 
 ###
 
