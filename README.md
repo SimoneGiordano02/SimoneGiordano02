@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Simone, a Master’s student in Computer Game Development at Università degli Studi di Verona, with a strong passion for videogames and the goal of pursuing a career in game development. This is a link to my <a href="https://github.com/SimoneGiordano02/game-dev-portfolio">portfolio</a>.</p>
+<p align="left">I'm Simone, a Software Developer with a Bachelor's degree in Computer Engineering from the University of Naples Federico II and a first-level postgraduate Master's in Computer Game Development from Università degli Studi di Verona. I have hands-on experience in C++ development with Unreal Engine, where I implemented UI systems and finite state machines (FSM) to manage complex application flows, and in data-driven software development in the finance and business intelligence field. I'm interested in AI and cybersecurity and I'm currently open to opportunities in these fields. Here's a link to my <a href="https://github.com/SimoneGiordano02/game-dev-portfolio">portfolio</a>.</p>
 
 ###
 
